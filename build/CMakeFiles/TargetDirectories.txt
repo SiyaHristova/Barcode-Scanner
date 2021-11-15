@@ -1,0 +1,3 @@
+C:/Users/Sisi/Desktop/barcodeScannerFinal/barcodeScanner-CMake/build/CMakeFiles/barcodeScanner.dir
+C:/Users/Sisi/Desktop/barcodeScannerFinal/barcodeScanner-CMake/build/CMakeFiles/edit_cache.dir
+C:/Users/Sisi/Desktop/barcodeScannerFinal/barcodeScanner-CMake/build/CMakeFiles/rebuild_cache.dir
